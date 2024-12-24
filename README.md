@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in Swift and how to fix it.  The `bug.swift` file contains code that attempts to pass a String to a function expecting an Int. The `bugSolution.swift` file shows the corrected code.
